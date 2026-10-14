@@ -10,7 +10,7 @@
 
 ### About
 
-I'm an independent developer working on practical software, developer tools, and experiments under **Thomas Studios**. I enjoy building tools that solve real problems and make everyday workflows easier.
+I'm an independent developer working on practical software, developer tools, and experiments under **The Thomas Studios**. I enjoy building tools that solve real problems and make everyday workflows easier.
 
 - **Focus:** Python applications, AI tooling, server infrastructure
 - **Interests:** automation, reliable software, game development
@@ -68,9 +68,7 @@ A Python utility for downloading files from Yandex Disk, with a local web interf
 ### Connect
 
 <div align="center">
-  <a href="https://thomas-studios.com"><img src="https://img.shields.io/badge/Website-Thomas_Studios-2864a0?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Thomas Studios website" /></a>
-  <a href="https://www.youtube.com/@Murzirius"><img src="https://img.shields.io/badge/YouTube-Murzirius-24292f?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
-  <a href="https://t.me/murzirius"><img src="https://img.shields.io/badge/Telegram-Murzirius-24292f?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="https://thomas-studios.com"><img src="https://img.shields.io/badge/Website-The_Thomas_Studios-2864a0?style=for-the-badge&logo=googlechrome&logoColor=white" alt="The Thomas Studios website" /></a>
 </div>
 
 <div align="center">
