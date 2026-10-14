@@ -1,6 +1,9 @@
+[README.md](https://github.com/user-attachments/files/33450011/README.md)
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:16253d,100:2864a0&height=190&section=header&text=Thomas%20Studios&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Development%20%26%20AI%20Tooling&descAlignY=59&descSize=16" width="100%" alt="Thomas Studios banner" />
+# Murzirius
+
+<sub>Software development · AI tooling · Infrastructure</sub>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3500&pause=1100&color=8DB7E8&center=true&vCenter=true&width=650&lines=Building+useful+developer+tools;Python+%7C+Infrastructure+%7C+AI+Tooling;Welcome+to+my+GitHub+profile" alt="Animated introduction" /></a>
 
@@ -72,5 +75,5 @@ A Python utility for downloading files from Yandex Disk, with a local web interf
 </div>
 
 <div align="center">
-  <sub>Made with care · Thomas Studios</sub>
+  <sub>Murzirius</sub>
 </div>
